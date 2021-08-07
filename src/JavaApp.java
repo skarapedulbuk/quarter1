@@ -4,7 +4,7 @@ public class JavaApp {
         System.out.println(arithmeticOperations(1f,20f,30f,40f));
         System.out.println(checkResultInterval(10,2));
         checkPositiveNumberVoid(-10);
-        System.out.println(checkPositiveNumberBoolean(-10));
+        System.out.println(checkPositiveNumberBoolean(-100));
         sayHello("Анечка");
         checkLeapYear(800);
     }
